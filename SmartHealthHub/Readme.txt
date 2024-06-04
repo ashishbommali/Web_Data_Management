@@ -1,0 +1,46 @@
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+login credentials to access respected role based web pages and their related routes:
+Users can login/singup through the mails 
+
+If you don't receive OTP you can use these test emails to test for different roles
+
+
+Patient:
+email: user1@gmail.com
+password: 123 
+
+Pharmacist:
+email: user2@gmail.com
+password: 123 
+
+HealthAdmin:
+email: user3@gmail.com
+password: 123 
+
+HealthcareProvider:
+email: user4@gmail.com
+password: 123
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Blog address: https://vsa5321.uta.cloud/
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+React app Website address: https://sxc5109.uta.cloud/
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+References: PHP documentation, Laravel framework documentation, React official documentation, 
+	    HTML,CSS- official documentation, W3 schools for learning, StackOverFlow toresolve errors, 
+	    YouTube Tutorials for learning and experimenting, class lecture videos and modules, 
+	    ChatGpt for error resolutions, to speedup the productivity and understanding purpose.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Running on local machine: Ensure you have installed node(20.10.0 or more)
+			  Ensure all the dependencies listed in tha json file
+			  Ensure your on right path to start frontend app
+Running the application: change directory to project frontend folder and
+Installation commands: npm install - to install listed dependencies in the package json file
+  		       npm start - to start the application
+To Generate a Build to deploy in the production site: npm run build
+To run the PHP and Laravel: please refer official document for setting up the environment and running the servers
+Setup the database to dynamically store/retreive the data 
+Note: Make sure to install/update all the dependencies 
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
